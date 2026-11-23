@@ -1,0 +1,1 @@
+print("name : kenish, age : 19, city : valsad")
