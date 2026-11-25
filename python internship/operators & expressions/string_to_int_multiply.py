@@ -1,0 +1,5 @@
+a=str(input("enter the value:"))
+b=int(a)
+print("data type of ",a,"is:",type(a))
+print("data type of ",b,"is:",type(b))
+print("the product of a and b is:",b*10)
